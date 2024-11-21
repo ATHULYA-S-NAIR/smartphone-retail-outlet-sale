@@ -18,7 +18,7 @@ This repository contains the resources and files for analyzing sales data of a s
 ## 🛠️ **Tools Used**
 - **Power BI**: For creating dynamic visualizations and reports.
 - **Excel**: For data preprocessing and initial exploration.
-- **Python** (optional): Additional data cleaning and transformations.
+
 
 ---
 
